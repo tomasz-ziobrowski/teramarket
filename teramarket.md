@@ -1,84 +1,54 @@
 # Teramarket
 Sklepopeja
 
-Spis rzeczy
 
-Złodziej
-
-Ciężkie Czasy
-
-Zagubiony w IKEA
-
-Blanka
-
-Wynalazca
-
-Marsz
-
-Haker
-
-Zakupy
-
-Ludzie z Teramarketu
-
-Złodziej
-
-Arka Gdynia Kurwa Świnia
-
-Admin
-
-Przerwa
-
-Elfy
-
-Kopalina
-
-Pod ziemią
-
-Dziecięca Kraina
-
-Zbieracze
-
-Pojmanie
-
-Gratis
-
-Doradca Klienta
-
-Strażnik
-
-Wizyta
-
-
+Spis rzeczy  
+Złodziej  
+Ciężkie Czasy  
+Zagubiony w IKEA  
+Blanka  
+Wynalazca  
+Marsz  
+Haker  
+Zakupy  
+Ludzie z Teramarketu  
+Złodziej  
+Arka Gdynia Kurwa Świnia  
+Admin  
+Przerwa  
+Elfy  
+Kopalina  
+Pod ziemią  
+Dziecięca Kraina  
+Zbieracze  
+Pojmanie  
+Gratis  
+Doradca Klienta  
+Strażnik  
+Wizyta  
 
 ## Złodziej 
 Dzwonek wybrzęczał próbę połączenia dokładnie w momencie gdy Yao brał ultradźwiękowy prysznic. Westchnął i strzepnął z siebie złuszczony naskórek, który posłusznie uformował się w spiralę znikającą w gardzieli odkurzacza. Kiedy odsłuchał wiadomość, poczuł falę podniecenia. Dzisiaj miał odbyć swoją pierwszą kradzież w realu! Lata przygotowywań, miesiące poświęcone na wkupywanie się łaski hakerów zaowocowały w końcu! Starannie ubrał się, sprawdził wszystkie elementy hardwaru i zachowując najwyższą ostrożność wymknął się z mieszkania w którym już zaczynał urzędować jego holosobowtór. Gdy znalazł sie na peronie metra, przełączył się na autopilota i zaczął przeglądać najświeższe informacje z netu. Przystanek przed Teramarketem Yao wyłączył autopilota, po czym zorientował się jego tarcza antyreklamowa była niesprawna gdyż nagle nabrał strasznej ochoty na Meduzy Kellog's Korn Flakes z mlekiem sojowym. Stanął, odgarnął ochraniacze i złącza danych a następnie kilkakrotnie uderzył się z całej siły w twarz. Strumień adrenaliny wymył reklamy z jego ustroju w postaci krwi sączącej się z wargi. Ten prosty sposób był jego osobistym wynalazkiem, bo jak sobie wyliczył dezynfekcja wargi była tańsza niż popadnięcie w szał zakupów i grzywny za przekroczenie dozwolonego BMI.
-Stefan już na niego czekał przed wejściem do Teramarketu. Przywitali się bez słów, po czym Stefan włączył strefę ciszy obejmującą ich obu.
-
-\- Popatrz - wyciągnął przed siebie mały pakunek - widzisz pewnie coś takiego pierwszy raz w życiu...
-
-\- Co to takiego? - Yao zaintrygowany oglądał paczuszkę.
-
-\- Nierejestrowane proteiny, węglowodany, błonnik... odpowiednik czterech jednostek żywnościowych.
-
-\- Ale przecież coś takiego kosztuje fortunę na czarnym rynku!
-
-\- I tak i nie ... - Stefan wzruszył ramionami - trzeba znać odpowiednich ludzi.
-
-Potem zanurzyli się w gąszczu reklam Teramarketu, wędrowali kanionami regałów przez AGD, tekstylia i ogrodnictwo, aż znaleźli się w dziale spożywczym. Yao był półprzytomny od hologramów wciskających się w jego pole widzenia, transmisji podprogowych i całego panoptikum próbującego przez nerw wzrokowy dostać się do jego mózgu. Na Stefanie reklamy zdawały się nie robić żadnego wrażenia. Kiedy stanęli przed stoiskiem z gotowymi posiłkami, Stefan przekazał Yao szyfrowaną wiadomość: "Teraz trzeba odwrócić uwagę komputera centralnego, w tym momencie sieciowa reprezentacja Teramarketu jest zasypywana pakietami danych. Za chwilę komputer przesunie część mocy obliczeniowej w tamtym kierunku i przestanie śledzić wszystkie cząstki na hali".
+Stefan już na niego czekał przed wejściem do Teramarketu. Przywitali się bez słów, po czym Stefan włączył strefę ciszy obejmującą ich obu.  
+\- Popatrz - wyciągnął przed siebie mały pakunek - widzisz pewnie coś takiego pierwszy raz w życiu...  
+\- Co to takiego? - Yao zaintrygowany oglądał paczuszkę.  
+\- Nierejestrowane proteiny, węglowodany, błonnik... odpowiednik czterech jednostek żywnościowych.  
+\- Ale przecież coś takiego kosztuje fortunę na czarnym rynku!  
+\- I tak i nie ... - Stefan wzruszył ramionami - trzeba znać odpowiednich ludzi.  
+Potem zanurzyli się w gąszczu reklam Teramarketu, wędrowali kanionami regałów przez AGD, tekstylia i ogrodnictwo, aż znaleźli się w dziale spożywczym. Yao był półprzytomny od hologramów wciskających się w jego pole widzenia, transmisji podprogowych i całego panoptikum próbującego przez nerw wzrokowy dostać się do jego mózgu. Na Stefanie reklamy zdawały się nie robić żadnego wrażenia. Kiedy stanęli przed stoiskiem z gotowymi posiłkami, Stefan przekazał Yao szyfrowaną wiadomość: "Teraz trzeba odwrócić uwagę komputera centralnego, w tym momencie sieciowa reprezentacja Teramarketu jest zasypywana pakietami danych. Za chwilę komputer przesunie część mocy obliczeniowej w tamtym kierunku i przestanie śledzić wszystkie cząstki na hali".  
 Wbrew jego słowom nic się nie stało, Stefan stał nieruchomo, a reklamy kontynuowały swój obłąkańczy taniec w takt idiotycznych dżingli będących zapewne najpopularniejszą aktualnie muzyką. Nagle Stefan szybko wyciągnął pakunek z kieszeni i zamienił go na cztery zupy chińskie, które upchnął za pazuchą. Potem w pośpiechu pobiegł w stronę wyjścia ciągnąc za sobą Yao, który był zbyt oszołomiony aby zareagować na to oczywiste naruszenie prywatności. Tymczasem nadeszła druga wiadomość: "Bilans materii będzie się zgadzał i nikt nas nie oskarży o kradzież, ale najlepiej wynieść się stąd."
-Stali dysząc przed bramą Termarketu. Yao przeanalizował sytuację i zwrócił się do Stefana:
-\- Wkładasz tyle wysiłku, tyle pracy i pieniędzy aby ukraść kilka nędznych zupek instant? - Yao próbował znaleźć sens w tym co się stało - jak to się może opłacać!
-\- Nic nie rozumiesz, wszystko wyjaśnię ci w domu - twarz Stefana przypominała nieruchomą maskę.
-W mieszkaniu Stefan wyciągnął z sejfu starą, zmurszałą księgę. Każda z kartka z osobna była zabezpieczona polimerową folią, co można było zauważyć, gdy księga spoczęła pod lampą.
-\- Nie wiem czy sobie zdajesz sprawę, ale tutaj, na tych terenach istniała kiedyś bardzo rozwinięta cywilizacja, państwo Polan, później znane pod nazwą Poland i ja... wyobraź sobie moi przodkowie byli Polandami!
-\- Ta... skąd to niby możesz wiedzieć?
-\- Przekupiłem kogo trzeba i dostałem się do archiwów. A w tej książce odnalazłem zaginioną mądrość tego ludu, naukę, według której postępuję. Oto Wielka Księga Przysłów Polandskich, zawierająca całą mądrość tego narodu - oczy Stefana błyszczały jak szklane kulki.
-\- Skąd to wiesz?
-Stefan przewrócił kilka stron i wskazał palcem na rząd czarnych znaczków. Znaczki nie zwróciły uwagi na dotyk, nie zamigotały i nie zanimowały się. Pozostały nieruchome i obojętne na użytkownika, co bardzo zdziwiło Yao. Pomimo że różniły się od standardowych ideogramów, Yao przyjął że w jakiś sposób są nośnikiem informacji, starożytnym kodem czy szyfrem.
-\- "Przysłowia są mądrością narodów" - z trudem przesylabizował Stefan - sam widzisz, oto dowód.
-\- Czekaj, czekaj! To ma coś wspólnego z tym idiotyzmem w sklepie?
-\- To żaden idiotyzm! Oni, kilkaset lat temu, rozwiązali problem nadwagi, problem z którym borykamy się do dziś. I rozwiązali go bardzo prosto, o tu jest napisane wyraźnie: "Kradzione nie tuczy"!
+Stali dysząc przed bramą Termarketu. Yao przeanalizował sytuację i zwrócił się do Stefana:  
+\- Wkładasz tyle wysiłku, tyle pracy i pieniędzy aby ukraść kilka nędznych zupek instant? - Yao próbował znaleźć sens w tym co się stało - jak to się może opłacać!  
+\- Nic nie rozumiesz, wszystko wyjaśnię ci w domu - twarz Stefana przypominała nieruchomą maskę.  
+W mieszkaniu Stefan wyciągnął z sejfu starą, zmurszałą księgę. Każda z kartka z osobna była zabezpieczona polimerową folią, co można było zauważyć, gdy księga spoczęła pod lampą.  
+\- Nie wiem czy sobie zdajesz sprawę, ale tutaj, na tych terenach istniała kiedyś bardzo rozwinięta cywilizacja, państwo Polan, później znane pod nazwą Poland i ja... wyobraź sobie moi przodkowie byli Polandami!  
+\- Ta... skąd to niby możesz wiedzieć?  
+\- Przekupiłem kogo trzeba i dostałem się do archiwów. A w tej książce odnalazłem zaginioną mądrość tego ludu, naukę, według której postępuję. Oto Wielka Księga Przysłów Polandskich, zawierająca całą mądrość tego narodu - oczy Stefana błyszczały jak szklane kulki.  
+\- Skąd to wiesz?  
+Stefan przewrócił kilka stron i wskazał palcem na rząd czarnych znaczków. Znaczki nie zwróciły uwagi na dotyk, nie zamigotały i nie zanimowały się. Pozostały nieruchome i obojętne na użytkownika, co bardzo zdziwiło Yao. Pomimo że różniły się od standardowych ideogramów, Yao przyjął że w jakiś sposób są nośnikiem informacji, starożytnym kodem czy szyfrem.  
+\- "Przysłowia są mądrością narodów" - z trudem przesylabizował Stefan - sam widzisz, oto dowód.  
+\- Czekaj, czekaj! To ma coś wspólnego z tym idiotyzmem w sklepie?  
+\- To żaden idiotyzm! Oni, kilkaset lat temu, rozwiązali problem nadwagi, problem z którym borykamy się do dziś. I rozwiązali go bardzo prosto, o tu jest napisane wyraźnie: "Kradzione nie tuczy"!  
 
 ## Ciężkie czasy
 Zrouer przygotowywał amulet uśmierzający bóle zębów i głowy. Amulet miał postać drewnianego pudełeczka pokrytego magicznymi symbolami i wyposażonego w prostokątny otwór z szybką. Amulet działał najlepiej kiedy przyciskało się go ucha lub żuchwy, ale mógł również być noszony na szyi lub w specjalnym futerale u pasa. W szczególnie ciężkich przypadkach stosowano wersje z trwalszych materiałów, pozwalające na umieszczenie w środku żarzącego się węgielka. Problem przy tego typu amuletach stanowiły ich małe rozmiary, ale zgodnie z tradycją powinny być wielkości stopy rocznego dziecka. Właśnie pracowicie rył szachownicę pokrytą starożytnymi cyframi na wieczku pudełeczka kiedy przed jego chatę przybyła delegacja ze wsi. Powodowani respektem zatrzymali się odległości dziesięciu kroków, tuż obok drewnianego, na wpół obciągniętego skórami szkieletu Hondy. Rozmyślnie zignorował delegację rozmyślając nad mistycznymi związkami pomiędzy znakami na cyferblacie. Wśród zebranych zapanowało zmieszanie, Zrouer, jako Urzędnik PS i USS, Lekarz oraz MC budził we wszystkich zabobonny lęk. W końcu wyłoniony, a raczej wypchnięty został przedstawiciel - obszarpaniec Żydła. Podszedł kilka kroków, zatrzymał się, obejrzał się niepewnie na odcinający mu drogę ludzki mur, wzruszył ramionami, podszedł bliżej i przyklęknął przed werandą.
