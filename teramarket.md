@@ -1,5 +1,7 @@
-#Teramarket
+# Teramarket
+Sklepopeja
 
+Spis rzeczy
 Złodziej
 Ciężkie Czasy
 Zagubiony w IKEA
@@ -27,7 +29,7 @@ Primum non nocere
 
 
 
-##Złodziej 
+## Złodziej 
 Dzwonek wybrzęczał próbę połączenia dokładnie w momencie gdy Yao brał ultradźwiękowy prysznic. Westchnął i strzepnął z siebie złuszczony naskórek, który posłusznie uformował się w spiralę znikającą w gardzieli odkurzacza. Kiedy odsłuchał wiadomość, poczuł falę podniecenia. Dzisiaj miał odbyć swoją pierwszą kradzież w realu! Lata przygotowywań, miesiące poświęcone na wkupywanie się łaski hakerów zaowocowały w końcu! Starannie ubrał się, sprawdził wszystkie elementy hardwaru i zachowując najwyższą ostrożność wymknął się z mieszkania w którym już zaczynał urzędować jego holosobowtór. Gdy znalazł sie na peronie metra, przełączył się na autopilota i zaczął przeglądać najświeższe informacje z netu. Przystanek przed Teramarketem Yao wyłączył autopilota, po czym zorientował się jego tarcza antyreklamowa była niesprawna gdyż nagle nabrał strasznej ochoty na Meduzy Kellog's Korn Flakes z mlekiem sojowym. Stanął, odgarnął ochraniacze i złącza danych a następnie kilkakrotnie uderzył się z całej siły w twarz. Strumień adrenaliny wymył reklamy z jego ustroju w postaci krwi sączącej się z wargi. Ten prosty sposób był jego osobistym wynalazkiem, bo jak sobie wyliczył dezynfekcja wargi była tańsza niż popadnięcie w szał zakupów i grzywny za przekroczenie dozwolonego BMI.
 Stefan już na niego czekał przed wejściem do Teramarketu. Przywitali się bez słów, po czym Stefan włączył strefę ciszy obejmującą ich obu.
 - Popatrz - wyciągnął przed siebie mały pakunek - widzisz pewnie coś takiego pierwszy raz w życiu...
@@ -50,7 +52,7 @@ Stefan przewrócił kilka stron i wskazał palcem na rząd czarnych znaczków. Z
 - Czekaj, czekaj! To ma coś wspólnego z tym idiotyzmem w sklepie?
 - To żaden idiotyzm! Oni, kilkaset lat temu, rozwiązali problem nadwagi, problem z którym borykamy się do dziś. I rozwiązali go bardzo prosto, o tu jest napisane wyraźnie: "Kradzione nie tuczy"!
 
-##Ciężkie czasy
+## Ciężkie czasy
 Zrouer przygotowywał amulet uśmierzający bóle zębów i głowy. Amulet miał postać drewnianego pudełeczka pokrytego magicznymi symbolami i wyposażonego w prostokątny otwór z szybką. Amulet działał najlepiej kiedy przyciskało się go ucha lub żuchwy, ale mógł również być noszony na szyi lub w specjalnym futerale u pasa. W szczególnie ciężkich przypadkach stosowano wersje z trwalszych materiałów, pozwalające na umieszczenie w środku żarzącego się węgielka. Problem przy tego typu amuletach stanowiły ich małe rozmiary, ale zgodnie z tradycją powinny być wielkości stopy rocznego dziecka. Właśnie pracowicie rył szachownicę pokrytą starożytnymi cyframi na wieczku pudełeczka kiedy przed jego chatę przybyła delegacja ze wsi. Powodowani respektem zatrzymali się odległości dziesięciu kroków, tuż obok drewnianego, na wpół obciągniętego skórami szkieletu Hondy. Rozmyślnie zignorował delegację rozmyślając nad mistycznymi związkami pomiędzy znakami na cyferblacie. Wśród zebranych zapanowało zmieszanie, Zrouer, jako Urzędnik PS i USS, Lekarz oraz MC budził we wszystkich zabobonny lęk. W końcu wyłoniony, a raczej wypchnięty został przedstawiciel - obszarpaniec Żydła. Podszedł kilka kroków, zatrzymał się, obejrzał się niepewnie na odcinający mu drogę ludzki mur, wzruszył ramionami, podszedł bliżej i przyklęknął przed werandą.
 - Szlachetny Pełniący-Obowiązki, potrzebujemy twojej pomocy... - wychrypiał swoim ledwo zrozumiałym głosem. Nie doczekał się odpowiedzi, Zrouer nadal kontemplował swoje dzieło. Dopiero po dłuższym, nieznośnie przeciągniętym milczeniu raczył pozdrowić Żydłę uprzejmym "Siema chłopie", nie okazał jednak zainteresowania jego słowami. Wtedy z tłumu oderwała się stara Mocherowa i dołączyła do Żydły, wcześniej stawiając na werandzie wiklinową klatkę z dwoma dorodnymi kurami. Wówczas Zrouer z westchnieniem schował do kieszeni niedokończony amulet i podszedł do kryjącej się w cieniu akacji grupy.
 Założył ręce z tyłu i nie zwracając się do nikogo konkretnego spytał:
@@ -143,7 +145,7 @@ Zrouer uśmiechnął się w odpowiedzi, czuł się wybrańcem bogów, wszystkie 
 - Oto legendarna broń Przodków, odnaleziona na rycinach i swiętym tekście 500 przez Zajksa, po raz pierwszy wydźwignięta na powierzchnię przez Wielkiego Nocnego Królika, moich czcigodnych poprzedników, dzięki niej, jak przed laty, nasze plemię zasieje strach w sercach wrogów.
 Stało się jak powiedział, wkrótce wszyscy zdolni do walki zostali wyposażeni w długie, osadzone na sztroc kosy. Wkrótce dzięki nowej broni i męstwu wojowników, zawołanie 'Żywią y Bronią' stało się postrachem wrogów Polandów. Taki był początek XVII Rzeczpospolitej.
 
-##Blanka
+## Blanka
 Dookoła zawieszonej pod sufitem siekiery kłębił się papierosowy dym. Stali bywalcy za punkt honoru poczytywali sobie ciągłe okadzanie symbolu Frontu Wyzwolenia Palaczy. Stąd ciągła warta honorowa pod Siekierą. Siekiera symbolizowała opór przed drakońskim prawem oraz nieustanne niebezpieczeństwo, na które wystawiali się członkowie Frontu. Taka przynajmniej była oficjalna wersja, według nieoficjalnej Toporek Damoklesa był cześcią wyposażenia ppoż.
 Blanka paląc jak zwykle nerwowo rozglądała się wokoło. Odruchowe wypatrywanie policji było jednym z przyzwyczajeń nabytych podczas ukradkowego popalania na powierzchni. Wstydziła się tego nawyku i starała się nad nim, szczególnie w katakumbach. Tutaj, bezpieczni w trzewiach betonowego bunkra spotykali się członkowie Frontu Wyzwolenia Palaczy. Ukryci przed wścibskimi obiektywami kamer, membranami mikrofonów i czujnikami wykrywaczy dymu mogli spokojnie delektować się zapachem tytoniowego dymu i planować rewolucję.
 Wyluzować się - walczyła z ogarniającym ją napadem paniki. Przebiegła w myślach sekwencje zdarzeń które doprowadziły ją właśnie tutaj, do samego jądra ruchu oporu. Z rozbawieniem przypominała powolne przyzwyczajenie się do goryczki i ślinotoku oraz zawroty głowy po paru głębszych wdechach. Z biegiem czasu gryzący dym wysysany z ręcznie skręcanych papierosów, a nawet uprzykrzone sensacje żołądkowe, skojarzyły jej się z buntem, wolnością i nadzieją na lepszą przyszłość. 
@@ -200,7 +202,7 @@ Niejasno zdała sobie sprawę że jej rozmówca kontynuuje jakąś dłuższą wy
 - Skoro tyle pan wie, to dlaczego nie próbuje pan opublikować tego, powiadomić ludzi?
 - Cenzura, moja droga, wspomagana sztuczną inteligencją to straszna rzecz. Sieć na pozór jest otwarta dla wszystkich, ale spróbuj tylko powiedzieć coś nie na rękę naszym przywódcom... - upuścił niedopałek i roztarł go butem po betonie, rozmyślnie ignorując popielniczkę - widzisz, demokrację wymyślono aby udomowić rewolucję, by karmić ją ersatzem przewrotu, jakim są wybory. Ja swoją prywatną rewolucję obłaskawiam papieroskami. 
 
-##Wynalazca
+## Wynalazca
 Siedział głęboko zapadnięty w tani fotel z Ikei, machinalnie jedząc jeden paluszek za drugim. Po prawej stronie, w głębi pokoju, nad nagimi, opasłymi udami przyszłego pana młodego tańczyła striptizerka. Parę w centrum pokoju otaczał wianuszek gości w różnych stadiach opicia, porozkładanych na fotelach, krzesłach i na podłodze.
 To był drugi z trzech zamówionych występów striptizerki, tym razem udawała dominę. Delikatnie okładała swoją ofiarę miękkim biczykiem. Striptizerka miała ostre, przedwcześnie postarzałe rysy, małe piersi, krótkie nogi i dokładnie wygolone krocze. W ciemnym pokoju jej opalone kwarcówką i nakremowane ciało wyglądało jak drogi skórzany mebel. Po lewej stronie, w jasno oświetlonym przedpokoju oparty o ścianę stał jej podpakowany alfons, którego Dobromir starał się mieć na oku.
 Wkładał do ust paluszki i chrupał je niespiesznie. W końcu ujrzał jeden na tle jasnej ściany przedpokoju, obrócił go w palcach wokół najdłuższej osi obserwując zmieniający się profil i nagle olśniło go. Ujrzał woskowy walec na którym Edison nagrywał dźwięki – tym walcem był paluszek, a ścieżka wiła się spiralnie pomiędzy kryształkami soli, na których zakodowane były sumy kotrolne. Był to moment transcendencji, dzięki niepowtarzalnej kombinacji czynników zewnętrznych udało mu się spojrzeć z innej perspektywy na otaczającą go rzeczywistość. Przewertował w myślach ogromną księgę możliwości i wybrał tę jedyną, która wydała mu się najbardziej zachęcająca.
@@ -211,7 +213,7 @@ Do sukcesu nowych nośników bardzo w dużej mierze przyczyniła się moda "Eat 
 Dziesięć lat później miał wystarczająco dużo pieniędzy żeby wykupić wszystkie patenty razem z laboratoriami i doprowadzić do końca badania nad teleportacją materii.
 Wtedy właśnie zrealizował marzenie swojego życia: zbudował Teramarket.
 
-##Haker
+## Haker
 Mamy go – powiedział gliniarz znad parującego kubka z kawą – cały jesteś nasz – dokończył wpatrując się w wyświetlacz.
 Widniało tam zdjęcie Dżimiego upstrzone jego wszystkimi danymi, od numeru buta po obwód głowy. Dżimi, znany też jako 71MMI H4><0R dowiedział się w tym samym momencie.
 - Kurwa - wyszeptał sam do siebie - kurwa mać.
@@ -230,7 +232,7 @@ Syreny policyjne były coraz bliżej, już wdzierały się w zasięg słuchu, ju
 Aby uciec przed policją zmienił zapis w Systemie Kontroli Materii komputera centralnego, wprowadził do systemu błąd, dobrowolnie sta się własnością Teramarketu i pierwszym z jego niewolników.
 Taki był początek.
 
-##Marsz
+## Marsz
 Procedura przekraczania granic Enklawy Małopolskiej była uciążliwa, ze względu na konieczność pozostawienia w depozycie Reksia. W końcu, po dokładnym obejrzeniu hostelu i ustawieniu kamer na przesyłanie ciągłego obrazu na domowy serwer, Henryk stwierdził, że jego ulubieniec jest w dobrych rękach. Przytulił Reksia na pożegnanie i ruszył do pracy. Przeciągnięcie odprawy sprawiło, że dotarł na miejsce pod koniec manifestacji. Biegał jak w ukropie usiłując nakręcić wszystkie platformy przesuwające się aleją Jana Pawła II. SM, auto-, robo- i exseksualiści. Potem pedofile, zoosi, fetyszyści i hirsutyści przedefilowali przed jego kamerami. Wszyscy wydawali się być
 przejęci sprawą, poświęceni bez reszty misji propagowania swojej odmienności. W końcu, zmęczony, zatrzymał się przy grupce niezbyt zainteresowanych gapiów, aby odsapnąć. Właśnie nagrywał materiał dźwiękowy, o poparciu, jakiego marszowi udzielili wszyscy laureaci nagrody Nobla z ostatnich dziesięciu lat, kiedy ktoś go zagadnął.
 - Nie sądzisz koleś, że to jakieś dziwne? - zapytał stojący przed Henrykiem podstarzały jegomość.
@@ -254,7 +256,7 @@ można przesuwać - zacisnął usta.
 istniejemy! Odnosimy sukcesy! Gospodarka aż huczy!
 - Zapytam inaczej: kiedy ostatnio widziałeś pan jakieś dziecko?
 
-##Zakupy
+## Zakupy
 Zmieszana wyszła z siedziby Frontu. Nagle zaczął jej zawadzać niski sufit, pojawiły się klaustrofobiczne skojarzenia, a kłęby dymu papierosowego zaczęły wywoływać mdłości. Poczuła że musi wyjść i tak też zrobiła zostawiając niezałatwione wpisy oraz Dariusza który koniecznie chciał o czymś z nią pomówić.
 Dopiero po którejś z kolei przesiadce, pokrzepiona świeżym powietrzem, zorientowała się że jedzie w stronę Teramarketu. W pierwszym odruchu chciała zawrócić, ale po namyśle zmieniła zdanie, przymiarki zawsze dobrze jej robiły. 
 Lubiła bawić się w zakupy, przymierzać i częstować się, czuć się przez parę godzin jak księżniczka Monaco, gwiazda sieciowa lub aktorka dwuwymiarowych filmów.
@@ -286,13 +288,13 @@ Jak w transie wybrała z menu "mięso->podziel" a potem kolejno "porcje" i "1 kg
 - Co się tak guzdrasz - dobiegł ją zaniepokojony głos Dżimiego. Wtedy z somnabuliczną pewnością wybrała opcję "wykonaj". W tym momencie Dżimiego zniknął zastąpiony stosem identycznych foliowych torebek z mielonym mięsem, coś trzasnęło gdy minimalnie zmienił się układ pakunków w wózku.
 Z najwyższym trudem, ledwo powstrzymując wymioty, przepchała wózek do strefy "Pomóż biednym dzieciom z Kazachstanu" i wyszła. Dopiero w kolejce poluzowałą więzy samokontroli i wybuchnęła płaczem.
 
-##Ludzie z termarketu
+## Ludzie z termarketu
 - Szybciej - bicz zawinął się i trzasnął nad głowami. Po chwili do trzasku dołączyły jęki  bitych więźniów.
 Nadzorca był wyraźnie rozdrażniony przerwą w pracy, wykrzywiał się z wysiłku piorąc gdzie popadnie, przez głowy, łokcie i plecy.
 - Ruszać się, psie łajno - wszyscy chwytali się za kosze, zbieraki i od nowa zaczynali ściąganie Dóbr z półek. Pełne kosze odjeżdżały w stronę przyczepy, gdzie były rozładowywane przez kobiety. W powietrzu unosił się zapach potu i brudnych ciał. Wszyscy byli zmęczeni, poruszali się ospale, mechanicznie i tęsknie wyglądając przyjazdu wózka. W końcu nadeszła upragniona chwila; rogaty, ozdobiony złupionymi maskami i totemami wózek podpełzł do miejsca załadunku. Zeskoczyło z niego kilku uzbrojonych strażników, zamienili kilka słów z nadzorcą po czym sprawnie uformowali więźniów w kolumnę. Nie obeszło się bez paru kuksańców, przekleństw i okrzyków bólu. Jednak nikt nie protestował ponad miarę, wszystko było zgodne z rytuałem. I tak samo zgodne z rytuałem było wleczenie się noga za nogą za transportem do kwater, rozdawanie jedzenia przez strażników i pospieszna jego konsumpcja. Jak zwykle strażnicy przy pomocy wózka zastawili ciężkimi regałami jedyne wejście do obozu. Dopiero potem, pokrzepieni wyłuskanym z foliowych torebek pokarmem wykorzystywali resztki sił na rozrywkę. Dzieci tłoczyły się wokół białowłosego starca opowiadającego dziwne historie, mężczyźni rozkładali się przed swoimi legowiskami. Młodzież płci obojga bawiła się w swoim towarzystwie, w atmosferze rywalizacji i zalotów.
 W końcu wszyscy jak zwykle zapomnieli o wieżyczkach strażniczych. Te jednak jak zwykle pochylały się nad obozem bacznie obserwując poczynania więźniów.
 
-##Arka Gdynia Kurwa Świnia
+## Arka Gdynia Kurwa Świnia
 To niesamowite... - Zenek oglądał kaloryfery tworzące ściany, ich brudnoszare żeberka zachodziły jedne na drugie tworząc stabilną konstrukcję. Gdzieniegdzie zachowały się resztki polichromii. 
 - Nie skub tego - Horni pacnął go w rękę - nigdzie nie można dostać oryginalnej farby ftalowej, a niczym innym nie można tego malować.
 - Ale jak Siekierka zdobył coś takiego? - Zenek nie mógł wyjść z podziwu.
@@ -321,7 +323,7 @@ pseudokibiców runęły na siebie z impetem, odgrywając zarejestrowane na taśm
 Następnie rozglądnął się i ruszył w stronę grupy Arkanoidów butujących Legionistę i zaatakował ich samotnie. To wystarczyło, żeby zostawili ofiarę i rzucili się na niego. Był przygotowany, uderzeniem w wątrób posłał pierwszego na piasek - zgodnie ze scenariuszem powinien tam skonać od krwotoku wewnętrznego. Reszta otoczyła go i przydusiła do ziemi. Ryczał wściekle i miotał się, ale było ich zbyt wielu. Kiedy znieruchomiał, odstąpili go, a wtedy rozepchnął grupę i pięknym skokiem rzucił się na największego. Przewrócił go jedynie, lecz wszyscy wiedzieli co uczynił jego
 przodek, co symbolizował ostatni skok. Podczas prawdziwej ustawki Zenon Gawlik z połamanymi rękami i zwichniętym biodrem, zdołał za pomocą samych zębów oraz siły rozpędu rozłupać czaszkę przeciwnika, zabijając go na miejscu. Walczył do końca, walczył w obronie szalika Legii. Potem Zenek już tylko leżał i płakał. Nie zwracał uwagi na atak Psów uzbrojonych w pałki, ani na sanitariuszy zbierających rannych i zabitych. Zenek płakał z goryczy, wiedział, że nigdy osiągnie choćby połowy tego co jego praszczur.
 
-##Przerwa
+## Przerwa
 Starzec odchrząknął i zaczął z namaszczeniem:
 - Dziś opowiem wam historię o Olbrzymich - na te słowo kilkoro starszych dzieci odłączyło się od grupy skupionej u jego kolan. Usłyszawszy tupot zwrócił w ich stronę zasnute bielmem oczy.
 - Biegnijcie, młodzi, biegnijcie, wy, którzy nie chcecie mnie słuchać. Mówicie, że powtarzam w kółko tę samą historię. To najważniejsza z historii, i dlatego będę ją powtarzał póki z moich płuc dobywa się oddech. Na początku byli Olbrzymi. Wyglądali podobnie do nas, lecz byli dla nas byli więksi i piękniejsi, zdrowie i urodę zachowywali do późnej starości. To ich obrazy widnieją nad waszymi głowami, to o nich opowiadają Święte Ekrany. Zbudowali oni cały świat, stworzyli regały i półki i napełnili je dobrem wszelakim i żyli zarówno w nim jak i poza nim. Ale mimo swej mocy Olbrzymi mieli potężnego wroga. Przez niego rodziło się coraz mniej dzieci, a Olbrzymi jeden po drugim umierali toczeni różnymi chorobami. Dlatego właśnie postanowili zostawić swoje dzieci w teramarkecie. Zostawić w nim ... - zrobił dramatyczną przerwę -  ... nas!
@@ -334,13 +336,13 @@ Wśród dzieci zapadła cisza.
 - Olbrzymi zostawili nas, aby ochronić przed swoim wrogiem, lecz chcieli abyśmy żyli jak oni, dlatego zostawili nam to  - powiódł ręką dookoła - dobra wszelakie, półki, światło nad naszymi głowami i - co najważniejsze zostawili nam Testament. - wziął głęboki oddech - Testament to wszystkie historie ze Świętych Ekranów, każda scena niesie ze sobą przekaz, który mówi jak żyć, jak się ubierać, co i kiedy spożywać. Pamiętajcie, że jeżeli chcecie być jak Olbrzymi musicie podążać ich ścieżką!
 - Pamiętajcie: Zawsze Coca-Cola! - wziął z plastikowej butelki łyk napoju.
 
-##Komiwojażer
+## Komiwojażer
 Pukam do drzwi i reklamuję Kolekcję Eleganckich Krawatów skacowanemu dziadowi, ten zamyka drzwi w połowie prezentacji, pukam ponownie i ściszonym głosem oferuję mu kilka gejowskich świerszczyków. Dziad spluwa na mój garnitur i zamyka drzwi. Delikatnie zbieram plwocinę do sterylnej fiolki.
 Podczas wizyty u Matuszaków udaję się do łazienki gdzie odkrywam istne Eldorado, włosy na grzebieniu, zakrwawiona podpaska w koszu, komplet szczoteczek do zębów. Spędzam w łazience prawie 15 minut. Demonstrując nowoczesny miniaturowy odkurzacz zbieram łupież z ramion całej rodziny Kleszów. 
 Dbam o to, żeby przed każdy uściskiem dłoni nakleić specjalny szorstki plaster.
 Wieczorem loguję się do serwisu Genia sp.z o.o. i pedantycznie rejestruje każdego z odwiedzonych mieszkańców, na biurku juz leży paczka z zabezpieczonymi, opatrzonymi metkami próbkami. Życie akwizytora stało się lżejsze odkąd pojawiły się firmy zbierające materiał genetyczny.
 
-##Elfy
+## Elfy
 "Jak trafisz na ucztę Elfów - nigdy nic nie jedz!" - mawiała jego babka kończąc opowieści o Elfach. Elfy mieszkały pod ziemią, elfy były piękne i znały czary, elfy nie miały duszy i były złe, elfy były doskonałymi rzemieślnikami. Elfy miały też niemiły zwyczaj zatrzymywania ludzi którzy byli na tyle nieostrożni by zajadać się daniami podawanymi na niekończących się ucztach.
 Zawsze gdy babka opowiadała bajki o elfach jej głos przybierał szczególny ton, a ona sama popadała w zamyślenie. Wydawała się zapadać się w sobie i przestawała reagować na otoczenie, jakby podróżowała myślą w niedostępne krainy. Gdy w takich momentach zwracał jej uwagę chichotała z zażenowaniem tłumacząc się starczym roztargnieniem. Nie bardzo wierzył w jej roztargnienie, babka nigdy niczego nie zapominała, nigdy nie traciła wątku jak inne staruszki, cechowała się żelazną konsekwencją w tym co robiła.
 Kiedyś w głębi zimy trawiony gorączką i głodem zobaczył elfy. Ukazały się w zdobionym przez mróz oknie, wysokie, świetliste postacie w zwiewnych szatach. Tańczyły w rytm muzyki wygwizdywanej przez wiatr na połamanych dachówkach. Znikły gdy tylko odwrócił głowę by zawołać matkę.
@@ -365,7 +367,7 @@ W końcu Trzypiór zatrzymał się.
 Ze studni bił błękitny blask, a gdy zaglądnęli do środka, w głębi ukazały się im przepiękne postacie mężczyzn i kobiet, tańczących, jedzących, podróżujących na grzbietach srebrnych bestii i uprawiających miłość. Obrazy przemykały jeden za drugim, jak we śnie. Co jakiś czas muzykę zastępowały głosy skandujące hasła, przekonujące do czegoś, namawiające, natarczywe i niezmożone. Wpatrywali się jak zauroczeni przez, wydawałoby się, wieczność. Otrzeźwienie przyniósł nagły łoskot, podłoga skoczyła pod ich nogami i zaczęła się zapadać. Zapanował harmider gdy wszyscy naraz rzucili się w kierunku wyjścia. Maldzie tylko mignęła płowa czupryna Trzypióra znikającego w wyrwie, która nagle otworzyła się pod jego stopami.
 Powrót miał smak pyłu, odbywał się w ciemnościach, wśród wrzasków strachu i bólu gdy szkło raniło dłonie i kolana Straszliwych Rzezimieszków. Po wyjściu na powierzchnię okazało się, że choć wielu zostało miało mniejsze lub większe skaleczenia to brakuje tylko Trzypióra. Kiedy dorośli dowiedzieli się o tej wyprawie, nakazali milczeć i zapomnieć o całej sprawie. Wkrótce potem dokładnie zasypali wejście do krainy Elfów.
 
-##Kopalina
+## Kopalina
 Wasyl rozejrzał się i głęboko wciągnął powietrze. Wyczuwał w nim jakąś dziwną nutę, nie potrafił jednak określić źródła tego zapachu. Według tego co mu powiedziano, był blisko osady lecz zastanawiał go brak kupców. Pusty trakt spowijała gęsta mgła, zamieniająca słońce w tarczę bladego blasku. Mgła utrudniała orientację i osadzała drobniutkimi kropelkami na włosach i ubraniu a poza tym przemakała wszystko, łącznie z mułem, który z właściwym sobie fatalizmem kroczył za właścicielem. Rachityczne, przystrojone łańcuchami kropel krzewy po obu stronach drogi były jedynymi słuchaczami przekleństw Wasyla.
 Do bram dotarł około południa. Pierwsze gościa poczuły psy. Głośnym ujadaniem zapowiadały zbliżanie się obcego. Ruch był mały choć bramy otwarto od rana.
 Kopalina słynęło z kopalni szkła. Wiele miast i klanów zaopatrywało się tutaj w groty i ostrza. Najbogatszych stać było na  okna ze szkła wyrabiane właśnie tutaj. Szklane groty i ostrza były tańsze od żelaznych i choć bardziej podatne na uszkodzenia, miały swoich dozgonnych zwolenników. Na miejscu były też manufaktury obrabiające wykopane szkło. Ostatnimi czasy dzięki ochronie gościńców i wybiciu okolicznych band miasteczko przeżywało rozkwit.
@@ -400,7 +402,7 @@ Ostanie słowa zawisły w powietrzu, a Naczelnik długo mu się przyglądał.
 Wpatrując się w plecy wychodzącego Wasyla dodał cicho:
 - I niech bogowie cię mają w opiece.
 
-##Pod ziemią
+## Pod ziemią
 Wasyl zleciał w dół studni, przebijając po drodze dziwną elastyczną błonę i choć ta osłabiła nieco jego impet, nie zdołała uchronić go przed boleśnie twardą powierzchnią na dnie. Wszystko dookoła zdawało się pławić w blasku. Natychmiast wstał i postąpił kilka kroków do przodu. Wyczuwał stopami równe podłoże ale oczy przyzwyczajone do mroku zalały się łzami i oślepły. Oszołomiony zaczął je trzeć, zatrzymał się i przez dłuższą chwilę przyglądał się kolorowym plamom. W końcu odzyskał zdolność widzenia a jego oczom ukazał się raj rabusiów. Najpierw zdało mu się że wyszedł jakimś sposobem na powierzchnię, jednak po chwili zrozumiał że to co brał za niebo jest białym sufitem obwieszonym płachtami różnokolorowych tkanin. Przed nim rozpościerały się szeregi półek obstawionych niewyobrażalnymi bogactwami, kolorowymi, błyszczącymi skarbami, jakby przed chwilą wytworzonymi rękami doskonałych rzemieślników. Półki ciągnęły się bez końca w obu kierunkach rozdzielone szerokimi alejami w głębi których widział kolejne, idące jedna za drugą w nieskończoność. Wasyl zaczął chodzić to w jedną to w drugą stronę próbując ogarnąć umysłem miejsce w którym się znalazł. Artefakty które z takim trudem wydobywał ze starożytnych grobowców tutaj dosłownie zalewały niezliczone regały półki i stojaki. Zachłannie rzucił się i zaczął obiema rękami zgarniać zawartość półek na podłogę, potem pakował co cenniejsze za pazuchę rozglądając się przy tym na wszystkie strony jak wystraszone zwierzę. Niemalże automatycznie przeliczał to niewyobrażalne bogactwo na wszystkie możliwe sposoby, na niewolników, ziemię, grzywny, złote ruble i szekle. Przestał, kiedy doliczył się niewielkiego królestwa. Potem przez głowę przemknęło mu wyobrażenie tych wszystkich zaszczytów, których dostąpi gdy dostarczy te cuda kniaziowi. Jak zamroczony krążył po tym olbrzymim skarbcu, przebierał i oglądał mamrocząc do siebie bezsensowne wyliczanki. Kiedy nieco przywykł do otoczenia zaczął pakować co cenniejsze przedmioty w znaleziony gdzieś worek, jednak ten po jakimś czasie (to także zbijało go z tropu - brak słońca wędrującego po niebie) zaczął mu ciążyć. W końcu porzucił go wśród stosów tajemniczo lśniących walców.
 Nagle zalała go fala muzyki. Zdawała się wydobywać zewsząd, czuł ją głęboko w trzewiach jakby przenikała go rozpuszczona we wdychanym powietrzu. Potem muzykę zastąpiło nagabywanie do kupna mijanych przedmiotów, potem znowu muzyka i znowu namowy, w kółko. Zauważył też dziwne zjawisko - niektóre półki rozjarzały się feerią świateł gdy tylko się do nich zbliżył, przy innych pojawiały się obrazy, prawie realne lecz ulotne jak dym, przedstawiające piękne kobiety i mężczyzn w dziwacznych szatach, namawiających do zakupu towarów w swoim sąsiedztwie. Inne jeszcze przedstawiały jego samego, czystego, ogolonego i przepysznie odzianego, oddającego się dziwnym czynnościom, kosztującego nieznane potrawy. Wtedy zdał sobie sprawę że znajduje się na jakimś boskim lub diabelskim targowisku ciągnącym się we wszystkich kierunkach. I że ktoś lub coś wiedziało że wtargnął do skarbca, czy jak mówiły głosy, do „Teramarketu”.
 Jego zmysły nieustannie atakowano, mimowolnie powtarzał niektóre hasła i przyśpiewki. Zdawało mu się że wariuje, przypominał sobie opowieści o nawiedzonych lub opętanych, którzy słyszeli głosy, widzieli duchy. Czyżby go to spotkało? Może całe to bajeczne bogactwo to majaczenia chorego umysłu? Może upadek był o wiele groźniejszy niż się wydawało?
@@ -408,13 +410,13 @@ Rozglądnął się dookoła, usiadł na podłodze i zaczął modlitwę. Wkrótce
 Wasyl wiedział że w zamierzchłych czasach ludzie dysponowali wiedzą, dzięki której potęgą dorównywali bogom. Niektóre ze starożytnych wyrobów do dziś zachwycały perfekcyjnym wykonaniem i odpornością na upływ czasu, ale to co zobaczył wykraczało poza jego najśmielsze wyobrażenia. Ruszył dalej, spychając prześladujące go dźwięki, zapachy i obrazy na krańce świadomości. Idąc zastanawiał się czy osławione elfy naprawdę istniały, czy były kolejną ułudą.
 Obudził się pokryty białym pyłem. Wszędzie dookoła poniewierały się białe skorupy, bliscy krewni porcelanowych zwierząt okupujących okoliczne półki. Jak przez mgłę pamiętał furię, w którą wpadł po wielogodzinnej wędrówce. Powoli wracały do jego pamięci sceny niszczenia, deptania i rozrzucania wszystkiego co nawinęło się pod rękę. Jednak jego działania przyniosły nieoczekiwany efekt: wewnątrz kręgu zniszczenia nic nie nagabywało go do zakupów. Uśmiechnął się do siebie i ponownie zapadł w sen.
 
-##Pojmanie
+## Pojmanie
 Było zimno, bardzo przydawało się znalezione wcześniej poncho. Owijając się nim wędrował najpierw pomiędzy alejkami pomiędzy stosami pudełek z różnokolorowymi maziami, potem po olbrzymiej chłodni. Z sufitu zwieszały się rzędy półtusz podwieszone na długich, umocowanych w suficie linach. Wasylowi z jakiegoś powodu przypomniały się szeregi drzew w tajdze i zimne, kłujące w płuca powietrze. Odruchowo chwycił za trzonek zatkniętego za pasem noża.
 Napór reklam zmniejszył się, znikły gdzieś hologramy, ale i tak coś zawzięcie zachwalało „Szynkę babuni” i „Salceson dziadunia”. Zastanawiał się mgliście z czego zrobiono wychwalane wyroby.
 Nagle coś przemknęło z przodu w poprzek alei, jakby pochylona ludzka sylwetka, jej ruchowi towarzyszył delikatny turkot. Mimowolnie sięgnął po łuk, zapominając że nie zabrał go ze sobą. Podbiegł do przodu z obnażonym nożem. Świńskie półtusze jeszcze chwiały się w miejscu zniknięcia tubylca. Była to żywa istota, co do tego nie miał wątpliwości gdyż reklamowe fantomy miały konsystencję dymu. Rzucił się w pogoń, uchylając się przed kołyszącymi się kawałami mięsa, jednakże po chwili stracił ślad. Zdezorientowany rozglądał się, próbując dociec gdzie podążył uciekinier. Nagle usłyszał znajomy turkot, lecz tym razem zdawał się dochodzić ze wszystkich stron. Wasyl zaczął się cofać, wprawiając w ruch otaczające go mięso, następnie rzucił się do ucieczki. Wybiegł na środek alejki i tam ich zobaczył: białe, nienaturalnie szybkie sylwetki wyraźnie zmierzające w jego kierunku. Rzucił się w drugą stronę, ale nagle drogę przegrodziła mu sieć. Uskoczył w bok aby stanąć oko w oko z jednym z nich, wysokim chudzielcem zasłaniającym się nabitą gwoździami pałką. Wasylowi pomogło mu zaskoczenie, gdyż tamten stanął jak wryty na jego widok. Wasyl, nie tracąc czasu na kontemplacje wyglądu przeciwnika, jednym cięciem rozpłatał mu brzuch i odepchnął. Tamten padł na bok i zacisnął ręce dookoła rany, podczas gdy Wasyl rzucił się do ucieczki.
 Poczuł uderzenie w głowę, i nieoczekiwanie wszystko dookoła zwolniło. Jego prześladowcy z powolnością lodowca, długimi ruchami płynęli w jego stronę podczas gdy on kończył rozpoczęty wieki temu upadek. Upadł i nieskończenie powoli próbował się podnieść, widział jak powolutku zaciskają na jego rękach i nogach pętle przyczepione do długich kijów, próbował się wymknąć, wyrwać się lecz pomimo powolności napastnicy byli szybsi. Zafascynowały go kółka przyczepione do ich stóp, zostawiające krwawe ślady na śnieżnobiałej posadzce i prawie zdążył zdziwić się bladością skóry napastników kiedy otrzymał kolejne uderzenie, które pogrążyło świat w ciemności.
 
-##Gratis
+## Gratis
 - Tak, tak, tak - mały siwy człowieczek biegał dookoła Wasyla podskakując z podekscytowania. To tutaj to autentyczna opalenizna - piszczał polewając obnażone plecy więźnia pieniącymi się miksturami - żadna sztuczna powłoka. Inny odcień niż Fitnowie; ten człowiek chodził na słońcu, powierzchnia!
 Wasyl poddawany tysięcznym torturom znosił je w milczeniu, poruszał się tylko na żądanie, nie wykazywał własnej inicjatywy, jakby zabito w nim wolę walki.
 - Tak, tak, tak - człowieczek nagle jakby zauważył łańcuchy na rękach więźnia - ty jesteś skrępowany, to niedopuszczalne!
@@ -454,7 +456,7 @@ Podeszli do stosu ubrań pod ścianą.
 - Ty, mój drogi Przybyszu - Gratis uśmiechnął się swoimi nieskazitelnie białymi zębami - pomożesz nam przyspieszyć ten plan.
 O tych słowach i o białych zębach w pomarszczonej twarzy Gratisa myślał długo w swojej luksusowej celi. Wasylowi te zęby jawiły się czymś nienaturalnym u tak starej osoby, wszyscy starcy, których widywał do tej pory ich byli pozbawieni. I mimo że nie widział w Teramarkecie żadnych zwierząt, to nagle te zęby zdały mu się wilczymi kłami. Te białe zęby i ostatnie słowa jakoś połączyły się w mrokach snu, przez co rano obudził się z przeświadczeniem że chcą go tymi białymi zębami rozszarpać. Późniejsze wydarzenia zdawały się potwierdzać jego najgorsze obawy.
 
-##Strażnik
+## Strażnik
 Marcin krążył pomiędzy półkami, oglądając się na coraz bardziej kusicielskie reklamy, tylko po to żeby z westchnieniem odwracać wzrok. Dziś był jego ostatni dzień w pracy, ostatni obchód w poszukiwaniu drobnych złodziejaszków. Tracił pracę na rzecz jakichś nowinek technicznych, których do końca nie rozumiał. Bo jak można zrobić maszynę która zapobiegnie każdemu ludzkiemu oszustwu, każdemu podstępowi? Przecież to ludzie stworzyli te maszyny, nieprawdaż, nie na odwrót. Dlatego ludzki strażnik w sklepie jest po prostu koniecznością. W tym samym tonie był utrzymany jego ostatni email skierowany do kierownictwa. Wysłał go pogrążony w głębokich wątpliwościach co do celowości tego gestu. Nigdy nie widział na własne oczy żadnego ze swoich przełożonych i podejrzewał że kierownictwo to zbiór co bystrzejszych programów w pamięci Malldemony.
 Od jutra jego rodzinę czekało go szare życie na koszt Opieki Społecznej, życie którego udawało mu tak długo unikać dzięki pracy w Teramarkecie. Odbieranie bloczków żywnościowych na Żarcie™ zamiast normalnego jedzenia, ciasne mieszkanie w mrówkowcu i beznadzieja tanich środków ogłupiających i telenoweli. Pewnie będzie musiał dołączyć też do jakiegoś kółka zainteresowań – wedle prawa bezrobotni musieli czynnie rozwijać swoje zainteresowania; prawo to wygenerowało miliony niedocenianych artystów, wynalazców i literatów. Na myśl o grze na fagocie robiło mu się mdło. Zastanawiał się jak długo wytrzyma w tym świecie wariatów.
 Fakt że wraz z żoną, uniesieni młodzieńczym optymizmem pozwolili sobie na dziecko skaże ich na egzystencję na najniższym z możliwych poziomów, Opieka Społeczna promowała pojedyncze, nieobciążone balastem rodziny jednostki jako mające największą szansę na zdobycie pracy.
@@ -470,7 +472,7 @@ Mieli pod dostatkiem przestrzeni i pożywienia, dostępne były również media 
 Czasami zastanawiał się jak skończyłaby się próba wyjścia, jaka kara czekała za tak zuchwałe, wielokrotnie powtarzane przestępstwo?
 Marcin wiedział że Malldemona, komputerowy duch sklepu, obserwuje go nieustannie, zastanawiało go co o nim „myśli”, jak zaklasyfikowała jego obecność w swojej domenie.
 
-##Wizyta
+## Wizyta
 Ja zwykle, po kilkugodzinnej orgii, zwiedzaniu ciekawych zakątków i rozmowach z Gratisem ledwo powłócząc nogami został odstawiony do swojego mieszkania. Lubił tak nazywać ten wyposażony we wszystkie wygody i bezustannie strzeżony apartament.
 Włączywszy dolne światła zauważył czyjąś sylwetkę w wejściu do garderoby, znieruchomiał, zastanowił się chwilę i strzelił palcami. Dziewczyna wyglądała o wiele lepiej niż na targu niewolników.
 - Promocja? Co ty tutaj robisz? Idź sobie, powiedz Gratisowi że jestem zmęczony!
@@ -496,7 +498,7 @@ Promocja tłumiąc płacz zamilkła. Kiedy ponownie zaczęła mówić, głos jej
 - Jeżeli się zdecydujesz, wyjdź tędy; jeden z naszych ludzi będzie na ciebie czekał.
 Po wyjściu Promocji Wasyl włączył światło i zaczął oglądać pakunek który mu zostawiła. W pierwszym momencie nie uwierzył własnym oczom; w przezroczystym opakowaniu tkwiło siedem złotych i platynowych kart oraz zwitek kolorowych kartek, wyglądały dokładnie jak pieniądze przedstawiane na starożytnych rycinach. Prawdziwe pieniądze, akceptowane przez Teramarket! Z zapartym tchem oglądał je ze wszystkich stron. Wąchał i dotykał liter wytłoczonych na kartach, jednocześnie analizując wszystkie otwierające się przed nim możliwości.
 
-##Księga wyjścia
+## Księga wyjścia
 Początkowo Kierownik nie czynił Wasylowi i jego wyznawcom żadnych problemów, wydawał się nawet zadowolony że pozbywa się nielojalnych poddanych. Jego gwardia utworzyła aleję, którą Odkupiciel wraz z wiernymi podążył w stronę granicy. Kierownik otoczony dworakami siedział na naprędce ustawionym podwyższeniu. Ci, wyposażeni w lornetki wydawali się traktować całe wydarzenie jak świetną zabawę, przekomarzali się i głośno wyśmiewali czcicieli Odkupiciela. Zebrani na dole mieszkańcy Agiedii nie podzielali ich wesołości, tłum milczał i czekał. Kierownik ze udawanym spokojem przyjął wymówienie służby przez szwadron Strażników, ze sztucznym uśmiechem obserwował jak z zawołaniem „Klient Nasz Pan” maszerują w stronę linii kas. Widział już oczyma wyobraźni jak obracają się w nicość w wybuchach kolorowego światła.
 Jednak kiedy Wasyl skorzystał z kart i strumień jego ludzi zaczął bezpiecznie przepływać przez pomarańczową granicę, Kierownik eksplodował wściekłością. Rzucił swoje oddziały w pogoń i wtedy doczekał się fajerwerków. Najlepsi z jego żołnierzy rozpadli się w pył, wozy bojowe i rydwany przepadły bez śladu, zanim Kierownik się opamiętał i wezwał do odwrotu. Utrata doborowych wojsk była dla niego dużym ciosem, ale jeszcze większym był śmiech i naigrywania, które wywołał wśród popleczników Wasyla. Tłum widząc zachodzące Odkupienie i bezsilność Kierownika zaczął się burzyć, a że osłabione i zdemoralizowane wojsko nie mogło zapanować nad zamieszkami, jeszcze tego samego wieczora Kierownik został obalony i zlinczowany przez żądny krwi motłoch.
 Tymczasem uciekinierzy uruchomili windę towarową i po długich perypetiach wydostali się na powierzchnię. I choć cierpieli głód, zimno i choroby, to po paru tygodniach dostali się do grodu kniazia Borysa.
@@ -504,7 +506,7 @@ Wasyl mało rozumiał z mechanizmu działania Teramarketu, jednak doskonale pojm
 Wasyl rozpoczął bogate życie i nigdy więcej nie wrócił do Teramarketu, a w kopalni powołał specjalną straż, której jedynym zadaniem było pilnowanie przejść do podziemnej krainy.
 
 
-##Pulpa, czyli magazyn pomysłów i takich tam:
+## Pulpa, czyli magazyn pomysłów i takich tam:
 
 Nie powinniśmy robić nowych przedmiotów, nie powinniśmy nawet zmieniać istniejących. Wszystko co można bylo stworzyć, już zostało stworzone. Tylko niewierni spoza królestwa AGD są  na tyle bezczelni, aby plugawić swoimi wymysłami Dzieło Stworzenia.
 
